@@ -1,0 +1,24 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+
+span {
+    font-style: italic;
+}
+
+.pp-center-column {
+    width: 800px;
+}
+
+.pp-page-header {
+    background-color: rgb(221, 221, 221);
+    border-bottom: rgb(205, 205, 205) solid 2px;
+    border-top: rgb(205, 205, 205) solid 2px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
+
+.pp-page-header h1 {
+    font-size: 55px;
+}
